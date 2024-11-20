@@ -8,8 +8,8 @@ const Footer = () => {
   };
 
   return (
-    <footer className="bg-blue-950 text-white font-[Poppins] py-10 px-4" data-scroll-section >
-      <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-5 gap-8">
+    <section data-scroll-section className="bg-blue-950 text-white font-[Poppins] py-10 px-4">
+      <footer className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-5 gap-8">
         {/* Tecbitron Section */}
         <motion.div
           initial="hidden"
@@ -115,7 +115,7 @@ const Footer = () => {
             <li>Address: 123 Tecbitron Ave, City</li>
           </ul>
         </motion.div>
-      </div>
+      </footer>
 
       {/* Footer Bottom */}
       <motion.div
@@ -127,7 +127,7 @@ const Footer = () => {
       >
         &copy; {new Date().getFullYear()} Tecbitron. All Rights Reserved.
       </motion.div>
-    </footer>
+    </section>
   );
 };
 
