@@ -18,9 +18,9 @@ const Footer = () => {
           variants={fadeInVariant}
           className="space-y-4"
         >
-          <h3 className="text-lg font-semibold">Tecbitron</h3>
+          <h3 className="text-lg font-semibold">Techorbitron</h3>
           <p className="text-sm">
-            Tecbitron is dedicated to empowering businesses with next-gen
+            Techorbitron is dedicated to empowering businesses with next-gen
             technology and innovative solutions for a better tomorrow.
           </p>
         </motion.div>
@@ -110,9 +110,9 @@ const Footer = () => {
         >
           <h3 className="text-lg font-semibold">Contact</h3>
           <ul className="text-sm space-y-1">
-            <li>Email: support@tecbitron.com</li>
+            <li>Email: support@techorbitron.com</li>
             <li>Phone: +1-800-123-456</li>
-            <li>Address: 123 Tecbitron Ave, City</li>
+            <li>Address: 123 Techorbitron Ave, City</li>
           </ul>
         </motion.div>
       </footer>
@@ -125,7 +125,7 @@ const Footer = () => {
         variants={fadeInVariant}
         className="mt-8 text-center text-sm text-gray-400"
       >
-        &copy; {new Date().getFullYear()} Tecbitron. All Rights Reserved.
+        &copy; {new Date().getFullYear()} Techorbitron. All Rights Reserved.
       </motion.div>
     </section>
   );
