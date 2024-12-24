@@ -5,17 +5,17 @@ const reasons = [
   {
     title: "Expertise",
     description: "Our team of experts provides unparalleled knowledge and experience to solve your most complex problems.",
-    image: "https://tecorbitron.com/wp-content/uploads/2024/07/shot-of-a-team-of-businesspeople-discussing-someth-2022-10-07-20-31-02-utc.jpg"
+    image: "https://images.unsplash.com/photo-1507206130118-b5907f817163?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     title: "Customer Focus",
     description: "We prioritize customer satisfaction and always work to meet the unique needs of each client.",
-    image: "https://tecorbitron.com/wp-content/uploads/2024/07/we-share-ideas-and-success-portrait-of-coworkers-2022-12-14-23-19-30-utc.jpg"
+    image: "https://images.unsplash.com/photo-1531497865144-0464ef8fb9a9?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     title: "Innovation",
     description: "We embrace the latest technologies and creative solutions to drive innovation in everything we do.",
-    image: "https://tecorbitron.com/wp-content/uploads/2024/07/1.jpg"
+    image: "https://images.unsplash.com/photo-1603202662706-62ead3176b8f?q=80&w=1938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   }
 ];
 
