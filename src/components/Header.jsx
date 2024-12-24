@@ -12,7 +12,7 @@ const Header = () => {
     >
       <div className="flex items-center justify-between px-8 h-full">
         {/* Logo */}
-        <h1 className="text-xl font-bold text-black">Tecorbitron</h1>
+        <h1 className="text-xl font-bold text-black">Techorbitron</h1>
 
         {/* Navigation Links */}
         <nav className="hidden md:flex space-x-8 text-base">
